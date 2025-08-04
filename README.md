@@ -1,4 +1,5 @@
 # Project Title: Audit Risk Factor
+![Audit Risk Factor-Examples-1024x430](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.iedunote.com%2Fimg%2F22727%2Faudit-risk-components.jpg&tbnid=fsuIk7OURE0AgM&vet=12ahUKEwi2p9Sdr_GOAxUCbWwGHUFGIR8QxiAoAXoECAAQLA..i&imgrefurl=https%3A%2F%2Fwww.iedunote.com%2Faudit-risk%2F&docid=9TENrMzCaTBcbM&w=3230&h=3231&itg=1&q=audit%20risk%20factor%20picture&ved=2ahUKEwi2p9Sdr_GOAxUCbWwGHUFGIR8QxiAoAXoECAAQLA)
 ## ✅ Objective:
 To build a predictive model that identifies potential risk in audit cases based on financial and operational attributes. The goal is to help auditors efficiently classify risky versus non-risky cases, improving audit planning and resource allocation.
 
