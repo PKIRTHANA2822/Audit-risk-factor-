@@ -1,5 +1,7 @@
-<img width="301" height="167" alt="image" src="https://github.com/user-attachments/assets/62bd9803-4df4-4611-b8ef-59f3081a01aa" /># Project Title: Audit Risk Factor
-![Audit Risk Factor-Examples-1024x430]()
+ # Project Title: Audit Risk Factor
+ 
+<img width="1024" height="430" alt="image" src="https://github.com/user-attachments/assets/62bd9803-4df4-4611-b8ef-59f3081a01aa" />
+![Audit Risk Factor-Examples-1024x430](https://github.com/PKIRTHANA2822/Audit-risk-factor-/blob/6f185750f3ba64025ecf6d2df9a642f04c259119/Audit-Risk-2.jpg)
 
 ## ✅ Objective:
 To build a predictive model that identifies potential risk in audit cases based on financial and operational attributes. The goal is to help auditors efficiently classify risky versus non-risky cases, improving audit planning and resource allocation.
