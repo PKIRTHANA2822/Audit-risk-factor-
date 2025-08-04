@@ -60,4 +60,4 @@ To detect patterns and relationships among financial attributes that are indicat
 Retrained model using only the most important features to check if performance remains consistent or improves.
 
 ### 📈 Output:
-![Uploading risk factor output .png…]()
+![Screenshot (2437)](Uploading risk factor output .png…)
